@@ -1,0 +1,19 @@
+.img {
+    height: 200px;
+    width: 1450px;
+    object-fit: cover;
+   }
+   h1{
+    color: rgb(253, 251, 251);
+    background-color: brown;
+     }
+    main {
+        color: white;
+        background-color: brown;
+    }
+    li {
+        list-style: none;
+        float: left;
+        padding-inline: 30px;
+        font-weight: bold;
+      }
